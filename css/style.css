@@ -247,7 +247,7 @@ a:focus, a:hover {
     margin-top: 1em;
 }
 .about-us h2 ,  .services h3, .gallery h3, .testimonials h3, .team h3, .contact h3{
-    font-size: 4em;
+    font-size: 3em;
 	color:#000;
 }
 .about-us p {
@@ -262,7 +262,7 @@ a:focus, a:hover {
 
 /*-- services --*/
 .services{
-	background:#1e833e;
+	background:#35a859;
 	padding:4em 0;
 }
 .services h3{
@@ -539,10 +539,10 @@ ul.social-icons1 li a i.fa:hover {
     font-family: 'Roboto Condensed', sans-serif;
 }
 .contact {
-    background: #1e833e;
+    background: #35a859;
 }
 .contact-left {
-    background: #1e833e;
+    background: #35a859;
     padding: 5em 0em;
 }
 .contact-right {
@@ -622,7 +622,7 @@ address a:hover {
 }
 address li {
     font-size: 1em;
-    color: rgb(5, 0, 0);
+    color: #FFFFFF;
     font-weight: 600;
 	line-height:2em;
 }
