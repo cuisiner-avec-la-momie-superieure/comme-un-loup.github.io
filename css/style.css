@@ -158,7 +158,7 @@ a:focus, a:hover {
 }
 .logo a {
     color: #fff;
-    border: 9px solid #fff;
+    border: 0px solid #fff;
     padding: 0.5em;
     font-weight: 600;
     font-size: 2em;
@@ -169,7 +169,7 @@ a:focus, a:hover {
     text-align: center;
 }
 .w3l-banner {
-    background: url(../images/banner3.jpg) no-repeat 0px 0px;
+    background: url(../images/loup_banner.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -192,7 +192,7 @@ a:focus, a:hover {
 .w3l-info h1,.w3l-info h3{
     font-size: 3em;
     color: #fff;
-    text-transform: uppercase;
+    text-transform: none;
 	line-height:1.4em;
 	letter-spacing:0.2em;
     font-weight: 900;
@@ -262,7 +262,7 @@ a:focus, a:hover {
 
 /*-- services --*/
 .services{
-	background:#ff9900;
+	background:#1e833e;
 	padding:4em 0;
 }
 .services h3{
@@ -304,7 +304,7 @@ a:focus, a:hover {
 	color: #FFFFFF;
     font-size: 2em;
     margin: 2em 0 0 0;
-    text-transform: uppercase;
+    text-transform: none;
 }
 .service-left-bottom-grids p{
 	font-size: 1em;
@@ -539,10 +539,10 @@ ul.social-icons1 li a i.fa:hover {
     font-family: 'Roboto Condensed', sans-serif;
 }
 .contact {
-    background: #efefef;
+    background: #1e833e;
 }
 .contact-left {
-    background: #ffffff;
+    background: #1e833e;
     padding: 5em 0em;
 }
 .contact-right {
@@ -622,7 +622,7 @@ address a:hover {
 }
 address li {
     font-size: 1em;
-    color: #999;
+    color: rgb(5, 0, 0);
     font-weight: 600;
 	line-height:2em;
 }
@@ -632,11 +632,11 @@ iframe {
     border: none;
 }
 .map {
-    -webkit-filter: grayscale(100%);
-    -moz-filter: grayscale(100%);
-    -ms-filter: grayscale(100%);
-    -o-filter: grayscale(100%);
-    filter: grayscale(100%);
+    -webkit-filter: grayscale(0%);
+    -moz-filter: grayscale(0%);
+    -ms-filter: grayscale(0%);
+    -o-filter: grayscale(0%);
+    filter: grayscale(0%);
 }
 .contact-wthree input[type="text"],.contact-wthree input[type="email"],.contact-wthree textarea {
     width: 48.7%;
